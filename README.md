@@ -4,6 +4,7 @@ A dictionary app created using a free Dictionary API: https://dictionary-app-fin
 
 Below is a GIF to demonstrate:
 
+![Dictionary-App](https://user-images.githubusercontent.com/82039703/136557025-b56baa7c-0f81-479c-b2da-a8672ef86ee0.gif)
 
 This app includes the following features:
 
